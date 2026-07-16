@@ -10,5 +10,6 @@ npm run dev
 ## resultado en el navegador
 Resltado 
 ![](imgs/props.png)
-..
+## Los props son inmutables
+Un hijo no debera de tratar de modificar los props que recibió
 
